@@ -20,4 +20,4 @@ sed -i '$a src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf
 sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
 
 
-git clone https://github.com/sirpdboy/luci-app-poweroffdevice.git package/lean/luci-app-poweroffdevice
+git clone https://github.com/esirplayground/luci-app-poweroff.git package/lean/luci-app-poweroff
